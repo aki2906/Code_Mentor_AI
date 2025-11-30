@@ -7,6 +7,7 @@ load_dotenv()
 st.set_page_config(page_title="Code Mentor AI", page_icon="⚡", layout="wide")
 
 # --- COMPACT CSS ---
+
 st.markdown("""
 <style>
     .stApp { background-color: #0d1117; color: #c9d1d9; }
